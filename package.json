@@ -9,6 +9,7 @@
   "author": "kuljeet",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "circular-json": "^0.5.9",
     "knex": "^0.21.17",
     "koa": "^2.13.1",
